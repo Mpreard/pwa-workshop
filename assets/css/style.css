@@ -56,13 +56,13 @@ h1 {
     overflow: hidden;
 }
 
-.card--avatar {
+.card-avatar {
     width: 18rem;
     height: 10rem;
     object-fit: cover;
 }
 
-.card--title {
+.card-title {
     color: #222;
     font-weight: 700;
     text-transform: capitalize;
@@ -70,7 +70,7 @@ h1 {
     margin-top: 0.5rem;
 }
 
-.card--link {
+.card-link {
     text-decoration: none;
     background: #db4938;
     color: #fff;
