@@ -1,0 +1,20 @@
+{
+  "name": "ImageQuiz",
+  "short_name": "ImageQuiz",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "dimgrey",
+  "theme_color": "dimgrey",
+  "icons": [
+    {
+      "src": "./assets/images/burger-menu.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "./assets/images/quizz.png",
+      "type": "image/png",
+      "sizes": "600x299"
+    }
+  ]
+}
