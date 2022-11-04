@@ -53,6 +53,7 @@ body {
 }
 
 .image-logo-quiz {
+    width: 100%;
     margin-top: 2rem;
     margin-bottom: 5rem;
 }
@@ -169,4 +170,10 @@ ul li label {
 .btn-submit-questions:focus {
     outline: none;
     background-color: #5e3370;
+}
+
+@media (max-width: 750px) {
+    .navbar img {
+        width: 4%;
+    }
 }
